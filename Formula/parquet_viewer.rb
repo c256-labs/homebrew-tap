@@ -7,7 +7,7 @@
 #   - the version tag in `url` (e.g. v0.1.0) once you push the git tag
 #   - `sha256` : sha256 of the release tarball (see PUBLISHING.md step 4)
 class ParquetViewer < Formula
-  desc "k9s-style terminal UI for browsing Parquet files"
+  desc "Terminal UI for browsing Parquet files, k9s-style"
   homepage "https://github.com/c256-labs/parquet_viewer"
   url "https://github.com/c256-labs/parquet_viewer/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "069069e1523acb6b6f7b804ccecca8684f246d5cd85f18112cba1474fc485462"
